@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/runme.dir/src/Block.cpp.o CMakeFiles/runme.dir/src/main.cpp.o CMakeFiles/runme.dir/src/blockchain.cpp.o CMakeFiles/runme.dir/src/sha256.cpp.o -o runme
